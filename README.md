@@ -5,7 +5,7 @@
 A sleek, fully responsive personal portfolio template for developers, AI engineers, and UI/UX designers.  
 Built to showcase your professional journey, skills, and projects with a modern, animated design.
 
-🔗 **Live Demo**: [https://hindina-portfolio.netlify.app]
+🔗 **Live Demo**: https://hindina-porto.netlify.app/
 
 ---
 
